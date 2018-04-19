@@ -31,7 +31,7 @@ export default new Router({
           path: 'nav1',
           component: nav1,
           name: 'nav1',
-          redirect: '/index/nav1/accountManage',
+          redirect: '/index/nav1/userManage',
           children: [
             {
               path: 'accountManage',

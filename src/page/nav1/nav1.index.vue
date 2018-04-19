@@ -14,10 +14,10 @@
           <span slot="title">用户管理</span>
         </el-menu-item>
 
-        <el-menu-item index="accountManage">
+      <!--  <el-menu-item index="accountManage">
           <i class="icon-wjgl title-icon"></i>
           <span slot="title">账号管理</span>
-        </el-menu-item>
+        </el-menu-item>-->
 
 
 

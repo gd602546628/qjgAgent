@@ -1,7 +1,7 @@
 <template>
   <div class="index" ref="index">
     <div class="index-nav">
-      <div class="title">管理后台</div>
+      <div class="title">代理商后台</div>
       <div class="nav">
         <!--  <p class="nav-item active">导航一</p>-->
         <div class="date">{{nowTime}}</div>

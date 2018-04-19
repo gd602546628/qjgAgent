@@ -82,7 +82,7 @@
             this.$route.params.fn()
           } else {
             this.saveUserInfo(data.data)
-            this.getCityInfo()
+           // this.getCityInfo()
             this.$router.push({
               name: 'index'
             })
